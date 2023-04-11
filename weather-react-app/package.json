@@ -1,7 +1,8 @@
 {
   "name": "weather-react-app",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.0", 
+  "homepage": "https://zuluagab99.github.io/weather-react-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +13,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0"  
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
